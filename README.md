@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Brayan Blanco Cordero</h1>
-<h3 align="center">Soy un Frontend apasionado y amante de las matematicas</h3>
+<h3 align="center">Soy un Frontend apasionado y amante de las matemáticas</h3>
 
 - 💬 Ask me about **html, javascript, wolfram mathematic, pythona**
 
